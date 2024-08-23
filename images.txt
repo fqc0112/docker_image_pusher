@@ -1,2 +1,2 @@
-jimmidyson/configmap-reload:v0.5.0
+directxman12/k8s-prometheus-adapter:v0.8.4
 
