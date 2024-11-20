@@ -1,1 +1,1 @@
-nginx:1.20.2
+docker pull atlassian/jira-software:9.0
