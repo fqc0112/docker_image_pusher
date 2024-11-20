@@ -1,1 +1,1 @@
-apache/rocketmq:5.2.0
+atlassian/jira-software:9.0
