@@ -1,2 +1,2 @@
-atlassian/jira-software:9.0
+apache
 
