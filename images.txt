@@ -1,1 +1,1 @@
-docker pull atlassian/jira-software:9.0
+tomcat:7.0
