@@ -1,1 +1,1 @@
-calico/kube-controllers:v3.8.9
+docker.io/jettech/kube-webhook-certgen:v1.5.1
