@@ -1,1 +1,1 @@
-docker.io/jettech/kube-webhook-certgen:v1.5.1
+ubuntu:22.04
