@@ -1,1 +1,1 @@
-ubuntu:22.04
+registry.cn-beijing.aliyuncs.com/dotbalo/metrics-server:0.6.4
