@@ -1,1 +1,1 @@
-registry.cn-beijing.aliyuncs.com/dotbalo/metrics-server:0.6.4
+bitnami/redis-cluster:7.2.7-debian-11-r12
