@@ -1,1 +1,1 @@
-rocklinux:9
+nginx:1.22.1
