@@ -1,5 +1,5 @@
 
-ibex/debian-mysql-server:5.7
+arm64v8/mysql:5.7
 #拉取arm架构
 --platform=linux/arm64 xiaoyaliu/alist
 
