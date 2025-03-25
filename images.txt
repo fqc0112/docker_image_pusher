@@ -1,5 +1,5 @@
 
-arm64v8/mysql:5.7
+mysql:8.0.35
 #拉取arm架构
 --platform=linux/arm64 xiaoyaliu/alist
 
