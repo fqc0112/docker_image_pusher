@@ -1,10 +1,10 @@
 
-mysql:8.0.35
+#mysql:8.0.35
 #拉取arm架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
 
 #
-
+docker.io/jettech/kube-webhook-certgen:v1.5.1
 #拉取x86架构
 #--platform=linux/x86 xiaoyaliu/alist
 
