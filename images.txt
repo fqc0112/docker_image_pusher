@@ -4,7 +4,8 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #
-quay.io/brancz/kube-rbac-proxy:v0.8.0
+registry.flow.cn/nacos/nacos-server:v2.4.3
+
 #拉取x86架构
 #--platform=linux/x86 xiaoyaliu/alist
 
