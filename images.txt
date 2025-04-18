@@ -4,7 +4,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #
-registry.flow.cn/nacos/nacos-server:v2.4.3
+registry.flow.cn/nacos/nacos-server:v2.4
 
 #拉取x86架构
 #--platform=linux/x86 xiaoyaliu/alist
