@@ -4,7 +4,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #
-registry.flow.cn/nacos/nacos-server:v2.4
+docker.io/falcosecurity/falcosidekick:2.28.0
 
 #拉取x86架构
 #--platform=linux/x86 xiaoyaliu/alist
