@@ -4,7 +4,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #
-docker.io/falcosecurity/falco-no-driver:0.36.2
+docker.io/falcosecurity/falco-driver-loader:0.36.2
 
 #拉取x86架构
 #--platform=linux/x86 xiaoyaliu/alist
