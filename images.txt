@@ -4,7 +4,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #
-quay.io/prometheus/prometheus:v2.26.0
+quay.io/prometheus/node-exporter:v1.1.2
 
 #拉取x86架构
 #--platform=linux/x86 xiaoyaliu/alist
