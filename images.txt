@@ -4,7 +4,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #
-quay.io/prometheus/node-exporter:v1.1.2
+quay.io/prometheus/alertmanager:v0.21.0
 
 #拉取x86架构
 #--platform=linux/x86 xiaoyaliu/alist
