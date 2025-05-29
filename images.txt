@@ -4,7 +4,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #
-minio/console:v0.15.13
+minio/operator:v4.5.8
 #拉取x86架构
 #--platform=linux/x86 xiaoyaliu/alist
 
