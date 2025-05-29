@@ -5,7 +5,8 @@
 
 #
 
-minio/minio:RELEASE.2024-05-24T21-44-30Z
+quay.io/minio/minio:RELEASE.2024-04-18T19-09-19Z
+
 #拉取x86架构
 #--platform=linux/x86 xiaoyaliu/alist
 
