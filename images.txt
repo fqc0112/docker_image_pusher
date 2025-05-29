@@ -4,7 +4,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #
-minio/console:v0.22.5
+quay.io/minio/console:v0.22.5
 #拉取x86架构
 #--platform=linux/x86 xiaoyaliu/alist
 
