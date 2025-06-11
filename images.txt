@@ -5,8 +5,7 @@
 
 #
 
-
-rabbitmq:3.13.3-management
+rabbitmqoperator/cluster-operator:2.9.0
 #拉取x86架构
 #--platform=linux/x86 xiaoyaliu/alist
 
