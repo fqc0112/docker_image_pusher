@@ -5,7 +5,8 @@
 
 #
 
-rabbitmqoperator/cluster-operator:2.9.0
+
+docker.io/rabbitmq:3.13.2-management
 #拉取x86架构
 #--platform=linux/x86 xiaoyaliu/alist
 
