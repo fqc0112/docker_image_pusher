@@ -5,8 +5,9 @@
 
 #
 
+kubernetesui/dashboard:v2.1.0
 
-rabbitmq:3.7-rc-management
+
 #拉取x86架构
 #--platform=linux/x86 xiaoyaliu/alist
 
