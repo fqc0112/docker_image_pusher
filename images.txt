@@ -5,7 +5,7 @@
 
 #
 
-kubernetesui/dashboard:v2.1.0
+quay.io/strimzi/operator:0.43.0
 
 
 #拉取x86架构
