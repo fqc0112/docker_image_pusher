@@ -5,7 +5,7 @@
 
 #
 
-williamguozi/log-pilot-filebeat:containerd
+docker.io/elastic/filebeat:8.11.3
 
 #拉取x86架构
 #--platform=linux/x86 xiaoyaliu/alist
