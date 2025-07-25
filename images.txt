@@ -4,8 +4,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #
-nginx:1.28.0
-
+bellsoft/liberica-openjdk-debian:17.0.11-cds
 #拉取x86架构
 #--platform=linux/x86 xiaoyaliu/alist
 
