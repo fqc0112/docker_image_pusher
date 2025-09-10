@@ -4,7 +4,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #
-bellsoft/liberica-openjdk-debian:17.0.11-cds
+keking/kkfileview:4.4.0
 #拉取x86架构
 #--platform=linux/x86 xiaoyaliu/alist
 
