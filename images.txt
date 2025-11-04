@@ -4,7 +4,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #
-keking/kkfileview:4.4.0
+flink:1.17.2-scala_2.12-java17
 #拉取x86架构
 #--platform=linux/x86 xiaoyaliu/alist
 
