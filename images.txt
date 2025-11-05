@@ -4,7 +4,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #
-flink:1.17.2-scala_2.12-java17
+paddlepaddle/paddle:2.6.1-cpu
 #拉取x86架构
 #--platform=linux/x86 xiaoyaliu/alist
 
