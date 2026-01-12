@@ -4,7 +4,8 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #
-docker.io/openjdk:17.0.2-jdk
+redis-shake/redis-shake:latest
+
 #拉取x86架构
 #--platform=linux/x86 xiaoyaliu/alist
 
