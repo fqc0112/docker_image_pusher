@@ -4,7 +4,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #
-redis-shake/redis-shake:latest
+registry.gitlab.com/gitlab-org/gitlab-runner/gitlab-runner-helper:x86_64-v18.7.2
 
 #拉取x86架构
 #--platform=linux/x86 xiaoyaliu/alist
